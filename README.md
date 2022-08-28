@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceAubrey65
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on anything I know a bit
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on anything I know a bit of.
 - 📫 How to reach me.. Telegram @Zed300 Whatsapp 0778728406
 
 <!---
