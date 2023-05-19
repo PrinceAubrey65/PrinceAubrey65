@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Aubrey
 =====================================================================================================================================
 
-Web development, designer and desktop applications developer
+Web development ,designer and Data Analyst
 ------------------------------------------------------------
 
 I build websites in PHP, HTML, CSS and HTML and also desktop applications in Python
