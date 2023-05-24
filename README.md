@@ -9,7 +9,7 @@ I build websites in PHP, HTML, CSS and HTML and also analyze and collect Data in
 *   🌍  I'm based in Uganda
 *   🖥️  See my portfolio at [My Portfolio](http://prince-aubrey.vercel.app)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
-*   🧠  I'm learning PHP
+*   🧠  I'm learning Django.
 *   🤝  I'm open to collaborating on Any project in python and JavaScript
 *   ⚡  I enjoy working out and eating food.
 *   <h3>Skills</h3>
