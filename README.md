@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web development ,designer and Data Scientist.
 ------------------------------------------------------------
 
-I build websites in PHP, HTML, CSS and HTML and also analyze and collect Data in Python.
+I build websites in Django, HTML, CSS and HTML and also analyze and collect Data in Python.
 
 *   🌍  I'm based in Uganda
 *   🖥️  See my portfolio at [My Portfolio](http://prince-aubrey.vercel.app)
