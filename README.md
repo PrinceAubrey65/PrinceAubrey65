@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Aubrey
 =====================================================================================================================================
 
-Web development ,designer and Data Scientist.
+Web development and System designer.
 ------------------------------------------------------------
 
-I build websites in Django, HTML, CSS and HTML and also analyze and collect Data in Python.
+I build websites in Django, HTML, CSS and Javascript.
 
 *   🌍  I'm based in Uganda
-*   🖥️  See my portfolio at [My Portfolio](http://prince-aubrey.vercel.app)
+*   🖥️  See my portfolio at [My Portfolio](princeaubrey.me)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
 *   🧠  I'm learning Django.
 *   🤝  I'm open to collaborating on Any project in python and JavaScript
