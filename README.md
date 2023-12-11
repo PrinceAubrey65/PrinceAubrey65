@@ -9,7 +9,7 @@ I build websites in Django, HTML, CSS and Javascript.
 *   🌍  I'm based in Uganda
 *   🖥️  See my portfolio at [My Portfolio](princeaubrey.me)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
-*   🧠  I'm learning Django.
+*   🧠  I'm learning PHP.
 *   🤝  I'm open to collaborating on Any project in python and JavaScript
 *   ⚡  I enjoy working out and eating food.
 *   <h3>Skills</h3>
