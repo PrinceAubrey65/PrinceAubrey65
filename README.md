@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Aubrey
 =====================================================================================================================================
 
-Web development and System designer.
+Web developer and Mobile App Developer.
 ------------------------------------------------------------
 
-I build websites in Django, HTML, CSS and Javascript.
+I build websites in Laravell(PHP), HTML, CSS and Javascript.
 
 *   🌍  I'm based in Uganda
 *   🖥️  See my portfolio at [My Portfolio](princeaubrey.me)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
-*   🧠  I'm learning PHP.
-*   🤝  I'm open to collaborating on Any project in python and JavaScript
-*   ⚡  I enjoy working out and eating food.
+*   🧠  I'm learning Project Management.
+*   🤝  I'm open to collaborating on Any project in python, JavaScript and PHP.
+*   ⚡  I enjoy working out and programming.
 *   <h3>Skills</h3>
 
 <p align="left">
