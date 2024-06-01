@@ -4,14 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Mobile App Developer.
 ------------------------------------------------------------
 
-I build websites in Laravell(PHP), HTML, CSS and Javascript.
+I build systems and websites in HTML, CSS, Javascript, Django, Bootstrap, Tailswind, PHP, React and React-Native. I have worked with databases like postgreSQL, SQLite, MySQL.
+I have used API's and built API's using FastAPI. 
 
 *   🌍  I'm based in Uganda
 *   🖥️  See my portfolio at [My Portfolio](princeaubrey.me)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
 *   🧠  I'm learning Project Management.
 *   🤝  I'm open to collaborating on Any project in python, JavaScript and PHP.
-*   ⚡  I enjoy working out and programming.
+*   ⚡  I enjoy reading books.
 *   <h3>Skills</h3>
 
 <p align="left">
