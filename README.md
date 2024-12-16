@@ -8,7 +8,7 @@ I build systems and websites in HTML, CSS, Javascript, Django, Bootstrap, Tailsw
 I have used API's and built API's using FastAPI. 
 
 *   🌍  I'm based in Uganda
-*   🖥️  See my portfolio at [My Portfolio](princeaubrey.me)
+*   🖥️  See my portfolio at [My Portfolio](prince-aubrey.vercel.app)
 *   ✉️  You can contact me at [nuwagabaprinceaubrey@gmail.com](mailto:nuwagabaprinceaubrey@gmail.com)
 *   🧠  I'm learning Project Management.
 *   🤝  I'm open to collaborating on Any project in python, JavaScript and PHP.
