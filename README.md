@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Aubrey
 =====================================================================================================================================
 
-Web developer and Mobile App Developer.
+Software developer
 ------------------------------------------------------------
 
 I build systems and websites in HTML, CSS, Javascript, Django, Bootstrap, Tailswind, PHP, React and React-Native. I have worked with databases like postgreSQL, SQLite, MySQL.
