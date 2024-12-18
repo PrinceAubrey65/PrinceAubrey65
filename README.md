@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------------------------------------------------
 
-I build systems and websites in HTML, CSS, Javascript, Django, Bootstrap, Tailswind, PHP, React and React-Native. I have worked with databases like postgreSQL, SQLite, MySQL.
+I build systems and websites in HTML, CSS, Javascript, Django(python), Bootstrap, PHP. I have worked with databases like postgreSQL, SQLite, MySQL.
 I have used API's and built API's using FastAPI. 
 
 *   🌍  I'm based in Uganda
